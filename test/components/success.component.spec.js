@@ -24,4 +24,3 @@ describe(SuccessComponent.name, () => {
     expect(sut).toBeTruthy();
   });
 });
-
